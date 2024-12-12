@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mi1Col
 - 👀 I’m interested in LEARN and GROW!!!
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python, HTML, CSS and Javascript for my own
 - 💞️ I’m looking to collaborate on idk yet
 - 📫 How to reach me miguelcollado562@gmail.com
 
