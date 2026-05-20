@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mi1Col
 - 👀 I’m interested in LEARN and GROW!!!
-- 🌱 I’m currently learning C and C++ for my own
+- 🌱 I’m currently learning Python and C/C++
 - 💞️ I’m looking to collaborate on idk yet
 - 📫 How to reach me miguelcollado562@gmail.com
 
